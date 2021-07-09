@@ -1,7 +1,7 @@
-##Quelles sont les bouteilles actuellement disponibles pour le réemploi dans les Bouches-du-Rhône ?
+## Quelles sont les bouteilles actuellement disponibles pour le réemploi dans les Bouches-du-Rhône ?
 Voici la liste des références par producteurs déjà disponibles pour réemploi (peuvent être ramenées en point de collecte pour réemploi) : 
 
-[Bière] Brasserie	Zoumai : Marmaille 75cl - Château d'If 75cl - Pomegue été 75cl 	
+[Bière] Brasserie	Zoumai : Marmaille 75cl - Château d'If 75cl - Pomegue été 75cl <br/>
 [Bière] Brasserie de la Plaine : Houblonée à cru 75 cl 
 [Bière] Brasserie	La Baroude : American Pale Ale 75cl - Belgian Strong 75cl - 	Weat ale 75cl
 [Bière]	Madame Dusse	: Blonde	75 cl	
