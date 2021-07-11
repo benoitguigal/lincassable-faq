@@ -12,12 +12,12 @@ Le pictogramme national “Rapportez-moi pour réemploi” doit être intégr
 - au moment de l’achat : d’identifier en magasin les bouteilles consignées </br>
 - après l’achat : de se remémorer quelles bouteilles il doit rapporter </br> 
 
-Le pictogramme contient en outre un lien vers le site internet de l’Incassable qui répertorie la liste des points de collecte partenaires. 
+Le pictogramme contient en outre un lien vers le site internet de l’Incassable qui répertorie la liste des points de collecte partenaires. </br>
 [Télécharger le pictogramme et la charte graphique](https://nuage.reseauconsigne.com/index.php/s/cJ9ssJYtqZRsjJ3|download)
 
 ## Meuble de collecte 
 Pour simplifier et valoriser l’espace retour des bouteilles en magasin, l’Incassable propose aux magasins deux meubles de collecte, pouvant acceuillir 3 à 6 casiers de 12 bouteilles 75cl. </br>
-Conçus avec une structure métallique, ils ont été pensés pour être solides et durables et simplifier le geste de retour pour les consommateurs.
+Conçus avec une structure métallique, ils ont été pensés pour être solides et durables et simplifier le geste de retour pour les consommateurs. </br>
 [Télécharger le catalogue du meuble de collecte](https://nuage.reseauconsigne.com/index.php/s/WTNyMeNgwTScqAZ|download)
 
 ## Kit de communication 
