@@ -11,8 +11,9 @@ Retrouvez la carte des producteurs et points de ventes partenaires </br>
 Le pictogramme national “Rapportez-moi pour réemploi” doit être intégré à vos étiquettes. Sa présence sur vos étiquettes est essentiel pour permettre au consommateur:</br>
 - au moment de l’achat : d’identifier en magasin les bouteilles consignées </br>
 - après l’achat : de se remémorer quelles bouteilles il doit rapporter </br> 
+
 Le pictogramme contient en outre un lien vers le site internet de l’Incassable qui répertorie la liste des points de collecte partenaires. 
-[Télécharger le pictogramme et la charte graphique](https://nuage.reseauconsigne.com/index.php/s/cJ9ssJYtqZRsjJ3|download]
+[Télécharger le pictogramme et la charte graphique](https://nuage.reseauconsigne.com/index.php/s/cJ9ssJYtqZRsjJ3|download)
 
 ## Meuble de collecte 
 Pour simplifier et valoriser l’espace retour des bouteilles en magasin, l’Incassable propose aux magasins deux meubles de collecte, pouvant acceuillir 3 à 6 casiers de 12 bouteilles 75cl. </br>
