@@ -2,14 +2,14 @@
 
 Voici la liste des références par producteurs déjà disponibles pour réemploi (peuvent être ramenées en point de collecte pour réemploi) :
 
-- [Bière] Brasserie	Zoumai : Marmaille 75cl - Château d'If 75cl - Pomegue été 75cl <br/>
-- [Bière] Brasserie de la Plaine : Houblonée à cru 75 cl
-- [Bière] Brasserie	La Baroude : American Pale Ale 75cl - Belgian Strong 75cl - 	Weat ale 75cl
-- [Bière]	Madame Dusse	: Blonde	75 cl
-[Jus de  pomme]	Biocoop	:	Petillant de pomme 75 cl
-- [Kefir]	Biocoop	: Kefir de fruit	75 cl
-- [Vin]	Biocoop	: Vin 75 cl
-- [Limonade]	Biocoop :	Limonade 75 cl
+- [Bière] **Brasserie	Zoumai** : Marmaille 75cl - Château d'If 75cl - Pomegue été 75cl <br/>
+- [Bière] **Brasserie de la Plaine** : Houblonée à cru 75 cl
+- [Bière] **Brasserie	La Baroude** : American Pale Ale 75cl - Belgian Strong 75cl - 	Weat ale 75cl
+- [Bière]	**Madame Dusse**	: Blonde	75 cl
+[Jus de  pomme]	**Biocoop**	:	Petillant de pomme 75 cl
+- [Kefir]	**Biocoop**	: Kefir de fruit	75 cl
+- [Vin]	**Biocoop**	: Vin 75 cl
+- [Limonade]	**Biocoop** :	Limonade 75 cl
 
 Retrouvez les points de ventes partenaires près de chez vous qui distribuent et collectent ces bouteilles sur la [carte](http://umap.openstreetmap.fr/fr/map/lincassable-ou-trouver-rammener-mes-bouteilles_610505#1/43/6) disponible sur le site de l'Incassable.
 
