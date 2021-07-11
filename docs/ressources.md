@@ -3,6 +3,10 @@ Ce cahier des charges a pour objectif de définir les principales spécificatio
 Nous nous sommes basés sur les retours d’expériences et études menées ces dernières années par d’autres acteurs du Réseau Consigne. 
 Télécharger le cahier des charges producteurs.  
 
+## Carte partenaires 
+Retrouvez la carte des producteurs et points de ventes partenaires </br>
+Lien carte
+
 ## Pictogramme réemploi 
 Le pictogramme national “Rapportez-moi pour réemploi” doit être intégré à vos étiquettes. Sa présence sur vos étiquettes est essentiel pour permettre au consommateur:</br>
 - au moment de l’achat : d’identifier en magasin les bouteilles consignées </br>
