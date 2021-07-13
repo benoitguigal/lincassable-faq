@@ -6,6 +6,7 @@ Le **réemploi** est à distinguer de la **réutilisation** qui désigne toute o
 
 ## Quelles bouteilles sont actuellement disponibles pour le réemploi dans les Bouches-du-Rhône ?
 
+**DÉJÀ DISPONIBLE**
 L'activité de l'Incassable démarre progressivement, voici la liste des producteurs et références de bouteilles que vous pouvez dès aujourd’hui acheter et ramener en point de collecte pour réemploi  :
 
 - [Bière] **Brasserie	Zoumai** : Marmaille 75cl - Château d'If 75cl - Pomegue été 75cl <br/>
@@ -16,6 +17,7 @@ L'activité de l'Incassable démarre progressivement, voici la liste des product
 - [Vin]	**Oé** : Rouge, Blanc, Rosé	75 cl
 
 
+**À VENIR**
 Voici la liste des références à venir d'ici la fin de l'année (le temps que les producteurs écoulent leur stock d'anciennes bouteilles et étiquettes, et mettent en place les adaptations nécessaires sur leurs étiquettes) : 
 - [Bière] **Brasserie Artisanale de Provence** : toutes les ref 75 cl 
 - [Bière] **Brasserie	Zoumai** : toutes les ref 75 cl 
