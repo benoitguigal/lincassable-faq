@@ -24,7 +24,8 @@ Voici la liste des références à venir d'ici la fin de l'année :
 Sur cette [carte](http://umap.openstreetmap.fr/fr/map/lincassable-ou-trouver-rammener-mes-bouteilles_610505#1/43/6), retrouvez tous les points de vente partenaires qui distribuent et collectent ces bouteilles près de chez vous.
 
 
-## Pourquoi ne peut-on pas récupérer toutes les bouteilles ?
+## Comment reconnaitre une bouteille éligible au réemploi ?
+![Pictogramme national réemploi](https://nuage.reseauconsigne.com/index.php/s/ZEdt8WQCxLJ9mxX|download)
 Les bouteilles éligibles au réemploi sont reconnaissables grâce au [Pictogramme national réemploi](https://nuage.reseauconsigne.com/index.php/s/ZEdt8WQCxLJ9mxX|download) intégré sur les étiquettes. La présence de ce pictogramme garantit que les bouteilles qui le portent font bien partie de la gamme standard L’Incassable, et que leurs étiquettes ont été adaptées selon le cahier des charges de l’Incassable (notamment avec des étiquettes à colle hydrosolubles qui partent au lavage).
 Les autres bouteilles qui ne portent pas le pictogramme ne sont malheureusement pas aptes au réemploi : leurs étiquettes ne sont pas lessivables, et les bouteilles ne sont pas forcément standardisées.
 
