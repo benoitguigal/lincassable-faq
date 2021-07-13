@@ -3,7 +3,7 @@ Le **réemploi** consiste à utiliser à nouveau un emballage pour un usage iden
 
 La **consigne** suppose un échange d'argent en retour du contenant vide. Le réemploi peut se faire avec ou sans consigne monétaire. 
 
-Le **réemploi** est à distinguer de la **réutilisation** qui désigne toute opération par laquelle des substances, matières ou produits qui sont devenus des déchets sont utilisés de nouveau.
+Le **réemploi** est à distinguer de la **réutilisation** qui désigne toute opération par laquelle des substances, matières ou produits qui sont devenus des déchets sont utilisés de nouveau (exemple meubles réalisés avec des palettes en bois).
 
 
 ## Quelles bouteilles sont actuellement disponibles pour le réemploi dans les Bouches-du-Rhône ?
