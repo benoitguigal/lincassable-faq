@@ -18,7 +18,7 @@ L'activité de l'Incassable démarre progressivement, voici la liste des product
 - [Vin]	**Oé** : Rouge, Blanc, Rosé	75 cl
 
 
-Voici la liste des références à venir d'ici la fin de l'année (le temps que les producteurs écoulent leur stock d'anciennes bouteilles et étiquettes, et mettent en place les adaptations nécessaires sur les étiquettes) : 
+Voici la liste des références à venir d'ici la fin de l'année (le temps que les producteurs écoulent leur stock d'anciennes bouteilles et étiquettes, et mettent en place les adaptations nécessaires sur leurs étiquettes) : 
 - [Bière] **Brasserie Artisanale de Provence** : toutes les ref 75 cl 
 - [Bière] **Brasserie	Zoumai** : toutes les ref 75 cl 
 - [Bière] **Brasserie de la Plaine** : toutes les ref 75 cl 
