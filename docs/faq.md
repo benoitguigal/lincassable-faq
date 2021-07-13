@@ -1,21 +1,31 @@
 ## Quelles sont les bouteilles actuellement disponibles pour le réemploi dans les Bouches-du-Rhône ?
 
-Voici la liste des références par producteurs déjà disponibles pour réemploi (peuvent être ramenées en point de collecte pour réemploi) :
+L'activité de l'Incassable démarre progressivement, voici la liste des producteurs et références de bouteilles que vous pouvez dès aujourd’hui acheter et ramener en point de collecte pour réemploi  :
 
 - [Bière] **Brasserie	Zoumai** : Marmaille 75cl - Château d'If 75cl - Pomegue été 75cl <br/>
 - [Bière] **Brasserie de la Plaine** : Houblonée à cru 75 cl
-- [Bière] **Brasserie	La Baroude** : American Pale Ale 75cl - Belgian Strong 75cl - 	Weat ale 75cl
+- [Bière] **Brasserie	La Baroude** : American Pale Ale 75cl - Belgian Strong 75cl - 	Wheat Ale 75cl
 - [Bière]	**Madame Dusse**	: Blonde	75 cl
-[Jus de  pomme]	**Biocoop**	:	Petillant de pomme 75 cl
 - [Kefir]	**Biocoop**	: Kefir de fruit	75 cl
+- [Vin]	**Oé **	: Rouge, Blanc, Rosé	75 cl
+
+
+Voici la liste des références à venir d'ici la fin de l'année : 
+- [Bière] **Brasserie Artisanale de Provence** : toutes les ref 75 cl 
+- [Bière] **Brasserie	Zoumai** : toutes les ref 75 cl 
+- [Bière] **Brasserie de la Plaine** : toutes les ref 75 cl 
+- [Bière] **Bulles de Provence** : toutes les ref 75 cl 
+- [Bière]	**Madame Dusse**	: toutes les	75 cl
+- [Jus de  pomme]	**Biocoop**	:	Petillant de pomme 75 cl
 - [Vin]	**Biocoop**	: Vin 75 cl
 - [Limonade]	**Biocoop** :	Limonade 75 cl
 
-Retrouvez les points de ventes partenaires près de chez vous qui distribuent et collectent ces bouteilles sur la [carte](http://umap.openstreetmap.fr/fr/map/lincassable-ou-trouver-rammener-mes-bouteilles_610505#1/43/6) disponible sur le site de l'Incassable.
+
+Sur cette [carte]((http://umap.openstreetmap.fr/fr/map/lincassable-ou-trouver-rammener-mes-bouteilles_610505#1/43/6), retrouvez tous les points de vente partenaires qui distribuent et collectent ces bouteilles près de chez vous.
 
 
-## Pourquoi est-ce que l'on ne peut pas récupérer toutes les bouteilles
-Les bouteilles éligibles au réemploi sont reconnaissables grâce au Pictogramme national réemploi intégré sur les étiquettes. La présence de ce pictogramme garantie que les bouteilles qui le portent font bien partie de la gamme standard L’Incassable, et que leurs étiquettes ont été adaptées selon le cahier des charges de l’Incassable (notamment avec des étiquettes à colle hydrosolubles qui partent au lavage).
+## Pourquoi ne peut-on pas récupérer toutes les bouteilles
+Les bouteilles éligibles au réemploi sont reconnaissables grâce au [Pictogramme national réemploi](https://nuage.reseauconsigne.com/index.php/s/ZEdt8WQCxLJ9mxX|download) intégré sur les étiquettes. La présence de ce pictogramme garantie que les bouteilles qui le portent font bien partie de la gamme standard L’Incassable, et que leurs étiquettes ont été adaptées selon le cahier des charges de l’Incassable (notamment avec des étiquettes à colle hydrosolubles qui partent au lavage).
 Les autres bouteilles qui ne portent pas le pictogramme ne sont malheureusement pas aptes au réemploi : leurs étiquettes ne sont pas lessivables, et les bouteilles ne sont pas forcément standardisées.
 
 
