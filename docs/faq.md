@@ -7,7 +7,7 @@ L'activité de l'Incassable démarre progressivement, voici la liste des product
 - [Bière] **Brasserie	La Baroude** : American Pale Ale 75cl - Belgian Strong 75cl - 	Wheat Ale 75cl
 - [Bière]	**Madame Dusse**	: Blonde	75 cl
 - [Kefir]	**Biocoop**	: Kefir de fruit	75 cl
-- [Vin]	**Oé **	: Rouge, Blanc, Rosé	75 cl
+- [Vin]	**Oé** : Rouge, Blanc, Rosé	75 cl
 
 
 Voici la liste des références à venir d'ici la fin de l'année : 
