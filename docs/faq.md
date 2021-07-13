@@ -25,7 +25,7 @@ Sur cette [carte](http://umap.openstreetmap.fr/fr/map/lincassable-ou-trouver-ram
 
 
 ## Comment reconnaitre une bouteille éligible au réemploi ?
-![Pictogramme national réemploi](https://nuage.reseauconsigne.com/index.php/s/ZEdt8WQCxLJ9mxX|download)
+![Pictogramme national réemploi](https://nuage.reseauconsigne.com/index.php/s/ZEdt8WQCxLJ9mxX)
 Les bouteilles éligibles au réemploi sont reconnaissables grâce au [Pictogramme national réemploi](https://nuage.reseauconsigne.com/index.php/s/ZEdt8WQCxLJ9mxX|download) intégré sur les étiquettes. La présence de ce pictogramme garantit que les bouteilles qui le portent font bien partie de la gamme standard L’Incassable, et que leurs étiquettes ont été adaptées selon le cahier des charges de l’Incassable (notamment avec des étiquettes à colle hydrosolubles qui partent au lavage).
 Les autres bouteilles qui ne portent pas le pictogramme ne sont malheureusement pas aptes au réemploi : leurs étiquettes ne sont pas lessivables, et les bouteilles ne sont pas forcément standardisées.
 
