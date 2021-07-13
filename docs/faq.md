@@ -45,7 +45,7 @@ A terme, l’usage d’un pictogramme national devrait se généraliser dans tou
 
 
 ## Comment stocker les bouteilles vides ?
-Les bouteilles doivent être rincées après utilisation puis stockées à l’abri de la lumière et de l’humidité. 
+Les bouteilles doivent être **rincées après utilisation** puis **stockées à l’abri de la lumière et de l’humidité**. 
 
 Le rinçage permet d’enlever les dépôts au fond de la bouteille (notamment les levures pour les bouteilles de bière) : on optimise ainsi le nettoyage et on évite les nuisibles pendant la période de stockage. 
 En évitant d’exposer les bouteilles aux UV et à l’humidité, la lessivable des étiquettes n’est pas altérée. 
