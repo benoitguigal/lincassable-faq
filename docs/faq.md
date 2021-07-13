@@ -1,8 +1,6 @@
 ## Quelle est la différence entre réemploi et consigne ? 
 Le **réemploi** consiste à utiliser à nouveau un emballage pour un usage identique à celui pour lequel il a été conçu. 
-
 La **consigne** suppose un échange d'argent en retour du contenant vide. Le réemploi peut se faire avec ou sans consigne monétaire. 
-
 Le **réemploi** est à distinguer de la **réutilisation** qui désigne toute opération par laquelle des substances, matières ou produits qui sont devenus des déchets sont utilisés de nouveau (exemple meubles réalisés avec des palettes en bois).
 
 
@@ -60,6 +58,10 @@ L’incitation au retour des bouteilles est pour l’instant laissée au libre c
 Si une consigne monétaire est mise en place, le magasin devra appliquer le montant de la consigne selon la réglementation en vigueur.
 L’ [arrêté du 1er août 2001](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000406764) fixe les taux de consignation des emballages dans le secteur des boissons.  Le montant de la consigne pour les bouteilles de 75 cl est fixé à 0,20€
 
+## Que deviennent les bouteilles ? 
+Les bouteilles sont collectées en magasin par un prestataire de collecte. 
+Elles sont ensuite lavées au sein d’un site de lavage professionnel. 
+Une fois lavées, elles sont repallétisées puis commercialisées pour être embouteillées par des producteurs locaux. 
 
 
 
