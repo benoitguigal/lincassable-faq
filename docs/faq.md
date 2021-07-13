@@ -1,7 +1,7 @@
 ## Quelle est la différence entre réemploi et consigne ? 
 Le **réemploi** consiste à utiliser à nouveau un emballage pour un usage identique à celui pour lequel il a été conçu. <br/>
 La **consigne** suppose un échange d'argent en retour du contenant vide. Le réemploi peut se faire avec ou sans consigne monétaire. <br/>
-Le **réemploi** est à distinguer de la **réutilisation** qui désigne toute opération par laquelle des substances, matières ou produits qui sont devenus des déchets sont utilisés de nouveau (exemple meubles réalisés avec des palettes en bois). <br/>
+Le **réemploi** est à distinguer de la **réutilisation** qui désigne toute opération par laquelle des substances, matières ou produits qui sont devenus des déchets sont utilisés de nouveau (par exemple, des meubles réalisés avec des palettes en bois). <br/>
 
 
 ## Quelles bouteilles sont actuellement disponibles pour le réemploi dans les Bouches-du-Rhône ?
