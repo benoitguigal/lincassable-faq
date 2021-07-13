@@ -60,7 +60,7 @@ L’ [arrêté du 1er août 2001](https://www.legifrance.gouv.fr/jorf/id/JORFTEX
 
 ## Que deviennent les bouteilles ? 
 Les bouteilles sont collectées en magasin par un prestataire de collecte. 
-Elles sont ensuite lavées au sein d’un site de lavage professionnel. 
+Elles sont ensuite lavées au sein d’un centre de lavage professionnel. 
 Une fois lavées, elles sont repallétisées puis commercialisées pour être embouteillées par des producteurs locaux. 
 
 
