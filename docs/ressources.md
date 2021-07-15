@@ -23,7 +23,7 @@ Conçus avec une structure métallique, ils ont été pensés pour être solides
 
 ## Kit de communication 
 [Logo l’Incassable](https://nuage.reseauconsigne.com/index.php/s/MpsDRfLL3CDbiHz/download) </br>
-[Affiche FAQ](https://nuage.reseauconsigne.com/index.php/s/fnDgbypPkgLFtpJ/download) </br>
-[Affiche L’Incassable](https://nuage.reseauconsigne.com/index.php/s/AYiDDk9YoqCke8y/download) </br>
+[Affiche verte - L’Incassable](https://nuage.reseauconsigne.com/index.php/s/AYiDDk9YoqCke8y/download) </br>
+[Affiche Jaune - Comment-ça-marche](https://nuage.reseauconsigne.com/index.php/s/fnDgbypPkgLFtpJ/download) </br>
 [Pictogramme réemploi](https://nuage.reseauconsigne.com/index.php/s/zpwzTHWaqmTFCj8/download) </br>
 
