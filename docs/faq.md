@@ -1,4 +1,6 @@
-## Quelle est la différence entre réemploi et consigne ? 
+# FAQ L'Incassable
+
+## Quelle est la différence entre réemploi et consigne ?
 Le **réemploi** consiste à utiliser à nouveau un emballage pour un usage identique à celui pour lequel il a été conçu. <br/>
 La **consigne** suppose un échange d'argent en retour du contenant vide. Le réemploi peut se faire avec ou sans consigne monétaire. <br/>
 Le **réemploi** est à distinguer de la **réutilisation** qui désigne toute opération par laquelle des substances, matières ou produits qui sont devenus des déchets sont utilisés de nouveau (par exemple, des meubles réalisés avec des palettes en bois). <br/>
@@ -18,11 +20,11 @@ L'activité de l'Incassable démarre progressivement, voici la liste des product
 
 
 **À VENIR** <br/>
-Voici la liste des références à venir d'ici la fin de l'année (le temps que les producteurs écoulent leur stock d'anciennes bouteilles et étiquettes, et mettent en place les adaptations nécessaires sur leurs étiquettes) : 
-- [Bière] **Brasserie Artisanale de Provence** : toutes les ref 75 cl 
-- [Bière] **Brasserie	Zoumai** : toutes les ref 75 cl 
-- [Bière] **Brasserie de la Plaine** : toutes les ref 75 cl 
-- [Bière] **Bulles de Provence** : toutes les ref 75 cl 
+Voici la liste des références à venir d'ici la fin de l'année (le temps que les producteurs écoulent leur stock d'anciennes bouteilles et étiquettes, et mettent en place les adaptations nécessaires sur leurs étiquettes) :
+- [Bière] **Brasserie Artisanale de Provence** : toutes les ref 75 cl
+- [Bière] **Brasserie	Zoumai** : toutes les ref 75 cl
+- [Bière] **Brasserie de la Plaine** : toutes les ref 75 cl
+- [Bière] **Bulles de Provence** : toutes les ref 75 cl
 - [Bière]	**Madame Dusse**	: toutes les	75 cl
 - [Jus de  pomme]	**Biocoop**	:	Petillant de pomme 75 cl
 - [Vin]	**Biocoop**	: Vin 75 cl
@@ -42,15 +44,14 @@ Les autres bouteilles qui ne portent pas le pictogramme ne sont malheureusement 
 ## Pourquoi est-ce que l’on peut retrouver différents pictogrammes réemploi sur les étiquettes ?
 Nous faisons partie du [Réseau consigne](http://www.reseauconsigne.com/) qui rassemble des acteurs de toute la France impliqués dans le développement de filières de réemploi à une échelle locale.
 Un pictogramme national pour le réemploi a été mis en place en septembre 2021 par le Réseau Consigne.
-Dans d’autres régions, certaines filières ont été mises en place il y a plusieurs années et avaient déjà développé leur propre pictogramme. 
+Dans d’autres régions, certaines filières ont été mises en place il y a plusieurs années et avaient déjà développé leur propre pictogramme.
 A terme, l’usage d’un pictogramme national devrait se généraliser dans toutes les régions.
 
 
 ## Comment stocker les bouteilles vides ?
-Les bouteilles doivent être **rincées après utilisation** puis **stockées à l’abri de la lumière et de l’humidité**. 
-Le rinçage permet d’enlever les dépôts au fond de la bouteille (notamment les levures pour les bouteilles de bière) : on optimise ainsi le nettoyage et on évite les nuisibles pendant la période de stockage. 
-En évitant d’exposer les bouteilles aux UV et à l’humidité, la lessivable des étiquettes n’est pas altérée. 
-
+Les bouteilles doivent être **rincées après utilisation** puis **stockées à l’abri de la lumière et de l’humidité**.
+Le rinçage permet d’enlever les dépôts au fond de la bouteille (notamment les levures pour les bouteilles de bière) : on optimise ainsi le nettoyage et on évite les nuisibles pendant la période de stockage.
+En évitant d’exposer les bouteilles aux UV et à l’humidité, la lessivable des étiquettes n’est pas altérée.
 
 
 ## Est-ce qu’une consigne monétaire est appliquée ?
@@ -59,10 +60,10 @@ L’incitation au retour des bouteilles est pour l’instant laissée au libre c
 Si une consigne monétaire est mise en place, le magasin devra appliquer le montant de la consigne selon la réglementation en vigueur.
 L’ [arrêté du 1er août 2001](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000406764) fixe les taux de consignation des emballages dans le secteur des boissons.  Le montant de la consigne pour les bouteilles de 75 cl est fixé à 0,20€
 
-## Que deviennent les bouteilles ? 
-Les bouteilles sont collectées en magasin par un prestataire de collecte. 
+## Que deviennent les bouteilles ?
+Les bouteilles sont collectées en magasin par un prestataire de collecte.
 Elles sont ensuite lavées au sein d’un centre de lavage professionnel. <br/>
-Une fois lavées, elles sont repallétisées puis commercialisées pour être embouteillées par des producteurs locaux. 
+Une fois lavées, elles sont repallétisées puis commercialisées pour être embouteillées par des producteurs locaux.
 
 
 
