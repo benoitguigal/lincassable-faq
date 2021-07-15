@@ -2,7 +2,7 @@
 
 ## Cahier des charges producteurs
 Ce cahier des charges a pour objectif de définir les principales spécifications techniques des étiquettes et contenants recommandés pour qu’ils soient compatibles au lavage et donc à leur réutilisation. </br>
-Nous nous sommes basés sur les retours d’expériences et études menées ces dernières années par d’autres acteurs du Réseau Consigne.
+Nous nous sommes basés sur les retours d’expériences et études menées ces dernières années par d’autres acteurs du Réseau Consigne. <br/>
 [Télécharger le cahier des charges producteurs](https://nuage.reseauconsigne.com/index.php/s/KcjdXp83affEHK7/download)
 
 ## Carte partenaires
