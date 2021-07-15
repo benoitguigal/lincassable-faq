@@ -19,6 +19,7 @@ Le pictogramme contient en outre un lien vers le site internet de l’Incassable
 Pour simplifier et valoriser l’espace retour des bouteilles en magasin, l’Incassable propose aux magasins deux meubles de collecte, pouvant acceuillir 3 à 6 casiers de 12 bouteilles 75cl. </br>
 Conçus avec une structure métallique, ils ont été pensés pour être solides et durables et simplifier le geste de retour pour les consommateurs. </br>
 [Télécharger le catalogue du meuble de collecte](https://nuage.reseauconsigne.com/index.php/s/WTNyMeNgwTScqAZ/download)
+[Télécharger la notice d'utilisation du meuble de collecte](https://nuage.reseauconsigne.com/index.php/s/JyTWNWJiZQGKqdm)
 
 ## Kit de communication 
 [Logo l’Incassable](https://nuage.reseauconsigne.com/index.php/s/MpsDRfLL3CDbiHz/download) </br>
