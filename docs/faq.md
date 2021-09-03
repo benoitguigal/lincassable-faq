@@ -26,7 +26,6 @@ Voici la liste des références à venir d'ici la fin de l'année (le temps que 
 - [Bière] **Brasserie	Zoumai** : toutes les ref 75 cl
 - [Bière] **Brasserie de la Plaine** : toutes les ref 75 cl
 - [Bière] **Bulles de Provence** : toutes les ref 75 cl
-- [Bière]	**Madame Dusse**	: toutes les	75 cl
 - [Jus de  pomme]	**Biocoop**	:	Petillant de pomme 75 cl
 - [Vin]	**Biocoop**	: Vin 75 cl
 - [Limonade]	**Biocoop** :	Limonade 75 cl
