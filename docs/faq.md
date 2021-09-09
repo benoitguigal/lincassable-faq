@@ -11,25 +11,24 @@ Le **réemploi** est à distinguer de la **réutilisation** qui désigne toute o
 **DÉJÀ DISPONIBLE** <br/>
 L'activité de l'Incassable démarre progressivement, voici la liste des producteurs et références de bouteilles que vous pouvez dès aujourd’hui acheter et ramener en point de collecte pour réemploi  :
 
-- [Bière] **Brasserie	Zoumai** : Marmaille 75cl - Château d'If 75cl - Pomegue été 75cl <br/>
+- [Bière] **Brasserie	Zoumai** : Marmaille 75cl - Château d'If 75cl - Pomègue été 75cl <br/>
 - [Bière] **Brasserie de la Plaine** : Houblonée à cru 75 cl
 - [Bière] **Brasserie	La Baroude** : American Pale Ale 75cl - Belgian Strong 75cl - 	Wheat Ale 75cl
 - [Bière] **Brasserie Artisanale de Provence** : Blonde 75 cl
-- [Bière]	**Madame Dusse**	: Blonde, La Rousse, IPA 75 cl
-- [Kefir]	**Biocoop**	: Kefir de fruit	75 cl
+- [Bière]	**Brasserie d'à Côté**	: Blonde, La Rousse, IPA 75 cl
+- [Kefir]	**Biocoop**	: L'atelier du ferment - Kéfir de fruit	75 cl
+- [Jus de  pomme]	**Biocoop**	:	Pétillant de pomme 75 cl
+- [Vin]	**Biocoop**	: Vin 75 cl
+- [Limonade]	**Biocoop** :	Limonade 75 cl
 - [Vin]	**Oé** : Rouge, Blanc, Rosé	75 cl
 
 
 **À VENIR** <br/>
 Voici la liste des références à venir d'ici la fin de l'année (le temps que les producteurs écoulent leur stock d'anciennes bouteilles et étiquettes, et mettent en place les adaptations nécessaires sur leurs étiquettes) :
 
-- [Bière] **Brasserie	Zoumai** : toutes les ref 75 cl
+- [Bière] **Brasserie	ZOUMAÏ** : toutes les ref 75 cl
 - [Bière] **Brasserie de la Plaine** : toutes les ref 75 cl
 - [Bière] **Bulles de Provence** : toutes les ref 75 cl
-- [Jus de  pomme]	**Biocoop**	:	Petillant de pomme 75 cl
-- [Vin]	**Biocoop**	: Vin 75 cl
-- [Limonade]	**Biocoop** :	Limonade 75 cl
-
 
 Sur cette [carte](http://umap.openstreetmap.fr/fr/map/lincassable-ou-trouver-rammener-mes-bouteilles_610505#1/43/6), retrouvez tous les points de vente partenaires qui distribuent et collectent ces bouteilles près de chez vous.
 
@@ -51,7 +50,7 @@ A terme, l’usage d’un pictogramme national devrait se généraliser dans tou
 ## Comment stocker les bouteilles vides ?
 Les bouteilles doivent être **rincées après utilisation** puis **stockées à l’abri de la lumière et de l’humidité**.
 Le rinçage permet d’enlever les dépôts au fond de la bouteille (notamment les levures pour les bouteilles de bière) : on optimise ainsi le nettoyage et on évite les nuisibles pendant la période de stockage.
-En évitant d’exposer les bouteilles aux UV et à l’humidité, la lessivable des étiquettes n’est pas altérée.
+En évitant d’exposer les bouteilles aux UV et à l’humidité, la lessivabilité des étiquettes n’est pas altérée.
 
 
 ## Est-ce qu’une consigne monétaire est appliquée ?
