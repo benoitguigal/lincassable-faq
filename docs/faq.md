@@ -20,7 +20,6 @@ L'activité de l'Incassable démarre progressivement, voici la liste des product
 - [Jus de  pomme]	**Biocoop**	:	Pétillant de pomme 75 cl
 - [Vin]	**Biocoop**	: Vin 75 cl
 - [Limonade]	**Biocoop** :	Limonade 75 cl
-- [Vin]	**Oé** : Rouge, Blanc, Rosé	75 cl
 
 
 **À VENIR** <br/>
