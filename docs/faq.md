@@ -11,7 +11,7 @@ Le **réemploi** est à distinguer de la **réutilisation** qui désigne toute o
 **DÉJÀ DISPONIBLE** <br/>
 L'activité de l'Incassable démarre progressivement, voici la liste des producteurs et références de bouteilles que vous pouvez dès aujourd’hui acheter et ramener en point de collecte pour réemploi  :
 
-- [Bière] **Brasserie	Zoumai** : Marmaille 75cl - Château d'If 75cl - Pomègue été 75cl <br/>
+- [Bière] **Brasserie	Zoumai** : Marmaille 75cl - Château d'If 75cl - Pomègue automne 75cl - Gaby 75 cl <br/>
 - [Bière] **Brasserie de la Plaine** : Houblonée à cru 75 cl
 - [Bière] **Brasserie	La Baroude** : American Pale Ale 75cl - Belgian Strong 75cl - 	Wheat Ale 75cl
 - [Bière] **Brasserie Artisanale de Provence** : Blonde 75 cl
