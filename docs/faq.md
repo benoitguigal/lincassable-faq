@@ -20,7 +20,6 @@
 
 
 Pour certains producteurs, la totalité des références vont arriver progressivement, le temps qu'ils écoulent leur stock d'anciennes bouteilles et étiquettes, et mettent en place les adaptations nécessaires sur leurs étiquettes. 
-
 Sur cette [carte](http://umap.openstreetmap.fr/fr/map/lincassable-ou-trouver-rammener-mes-bouteilles_610505#1/43/6), retrouvez tous les points de vente partenaires qui distribuent et collectent ces bouteilles près de chez vous.
 
 
