@@ -11,7 +11,7 @@
 - [Vin] **Domaine Roustan** : Rosé "Le Pitchounet", Blanc "Les Poules Rieuses", Rouge "Les Camarades", Blanc “Coquin de Sort”
 
 
-**AUTRES PRODUCTEURS ENGAGÉS FABRIQUÉS EN FRANCE DISPONIBLES LOCALEMENT** <br/>
+**AUTRES PRODUCTEURS ENGAGÉS DISPONIBLES LOCALEMENT (FABRIQUÉS AILLEURS EN FRANCE)** <br/>
 - [Jus]	**La Ferme de Margerie**	: Tous les jus de 1L (Sauf la gamme tremplin)
 - [Vin] **Oé** : Toute leur gamme (une quinzaine de références disponibles)
 - [Kefir]	**Biocoop**	: L'atelier du ferment - Kéfir de fruit	75 cl
