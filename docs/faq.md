@@ -14,9 +14,8 @@
 **AUTRES PRODUCTEURS ENGAGÉS DISPONIBLES LOCALEMENT (FABRIQUÉS AILLEURS EN FRANCE)** <br/>
 - [Jus]	**La Ferme de Margerie**	: Tous les jus de 1L (Sauf la gamme tremplin)
 - [Vin] **Oé** : Toute leur gamme (une quinzaine de références disponibles)
-- [Kefir]	**Biocoop**	: L'atelier du ferment - Kéfir de fruit	75 cl
+- [Kefir]	**L'atelier du ferment** : Kéfir de fruit	75 cl
 - [Jus de  pomme]	**Biocoop**	:	Pétillant de pomme 75 cl
-- [Vin]	**Biocoop**	: Vin 75 cl
 - [Limonade]	**Biocoop** :	Limonade 75 cl
 
 
