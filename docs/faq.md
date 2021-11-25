@@ -1,35 +1,34 @@
 # FAQ L'Incassable
 
-## Quelle est la différence entre réemploi et consigne ?
-Le **réemploi** consiste à utiliser à nouveau un emballage pour un usage identique à celui pour lequel il a été conçu. <br/>
-La **consigne** suppose un échange d'argent en retour du contenant vide. Le réemploi peut se faire avec ou sans consigne monétaire. <br/>
-Le **réemploi** est à distinguer de la **réutilisation** qui désigne toute opération par laquelle des substances, matières ou produits qui sont devenus des déchets sont utilisés de nouveau (par exemple, des meubles réalisés avec des palettes en bois). <br/>
-
-
 ## Quelles bouteilles sont actuellement disponibles pour le réemploi dans les Bouches-du-Rhône ?
 
-**DÉJÀ DISPONIBLE** <br/>
-L'activité de l'Incassable démarre progressivement, voici la liste des producteurs et références de bouteilles que vous pouvez dès aujourd’hui acheter et ramener en point de collecte pour réemploi  :
-
+**PRODUCTEURS LOCAUX** <br/>
 - [Bière] **Brasserie	Zoumai** : Marmaille 75cl - Château d'If 75cl - Pomègue automne 75cl - Gaby 75 cl <br/>
 - [Bière] **Brasserie de la Plaine** : Houblonée à cru 75 cl
 - [Bière] **Brasserie	La Baroude** : American Pale Ale 75cl - Belgian Strong 75cl - 	Wheat Ale 75cl
 - [Bière] **Brasserie Artisanale de Provence** : Blonde 75 cl
 - [Bière]	**Brasserie d'à Côté**	: Blonde, La Rousse, IPA 75 cl
+- [Vin] **Domaine Roustan** : Rosé "Le Pitchounet", Blanc "Les Poules Rieuses", Rouge "Les Camarades", Blanc “Coquin de Sort”
+
+
+**AUTRES PRODUCTEURS ENGAGÉS FABRIQUÉS EN FRANCE DISPONIBLES LOCALEMENT** <br/>
+- [Jus]	**La Ferme de Margerie**	: Tous les jus de 1L (Sauf la gamme tremplin)
+- [Vin] **Oé** : Toute leur gamme (une quinzaine de références disponibles)
 - [Kefir]	**Biocoop**	: L'atelier du ferment - Kéfir de fruit	75 cl
 - [Jus de  pomme]	**Biocoop**	:	Pétillant de pomme 75 cl
 - [Vin]	**Biocoop**	: Vin 75 cl
 - [Limonade]	**Biocoop** :	Limonade 75 cl
 
 
-**À VENIR** <br/>
-Voici la liste des références à venir d'ici la fin de l'année (le temps que les producteurs écoulent leur stock d'anciennes bouteilles et étiquettes, et mettent en place les adaptations nécessaires sur leurs étiquettes) :
-
-- [Bière] **Brasserie	ZOUMAÏ** : toutes les ref 75 cl
-- [Bière] **Brasserie de la Plaine** : toutes les ref 75 cl
-- [Bière] **Bulles de Provence** : toutes les ref 75 cl
+Pour certains producteurs, la totalité des références vont arriver progressivement, le temps qu'ils écoulent leur stock d'anciennes bouteilles et étiquettes, et mettent en place les adaptations nécessaires sur leurs étiquettes. 
 
 Sur cette [carte](http://umap.openstreetmap.fr/fr/map/lincassable-ou-trouver-rammener-mes-bouteilles_610505#1/43/6), retrouvez tous les points de vente partenaires qui distribuent et collectent ces bouteilles près de chez vous.
+
+
+## Quelle est la différence entre réemploi et consigne ?
+Le **réemploi** consiste à utiliser à nouveau un emballage pour un usage identique à celui pour lequel il a été conçu. <br/>
+La **consigne** suppose un échange d'argent en retour du contenant vide. Le réemploi peut se faire avec ou sans consigne monétaire. <br/>
+Le **réemploi** est à distinguer de la **réutilisation** qui désigne toute opération par laquelle des substances, matières ou produits qui sont devenus des déchets sont utilisés de nouveau (par exemple, des meubles réalisés avec des palettes en bois). <br/>
 
 
 ## Comment reconnaitre une bouteille éligible au réemploi ?
