@@ -3,7 +3,7 @@
 ## Quelles bouteilles sont actuellement disponibles pour le réemploi dans les Bouches-du-Rhône ?
 
 **PRODUCTEURS LOCAUX** <br/>
-- [Bière] **Brasserie	Zoumai** : Marmaille 75cl - Château d'If 75cl - Pomègue automne 75cl - Gaby 75 cl <br/>
+- [Bière] **Brasserie	Zoumai** : Maïre 75cl - Marmaille 75cl - Château d'If 75cl - Pomègue automne 75cl - Gaby 75 cl <br/>
 - [Bière] **Brasserie de la Plaine** : Houblonée à cru 75 cl
 - [Bière] **Brasserie	La Baroude** : American Pale Ale 75cl - Belgian Strong 75cl - 	Wheat Ale 75cl
 - [Bière] **Brasserie Artisanale de Provence** : Blonde 75 cl
