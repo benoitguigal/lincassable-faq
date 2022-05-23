@@ -10,7 +10,11 @@
 - [Bière] **Brasserie Bulles de Provence** : toutes les bouteilles 75 cl 
 - [Bière] **Brasserie Artisanale de Provence** : Blonde Bio 75 cl
 - [Bière]	**Brasserie d'à Côté**	: toutes les bouteilles 75 cl
+- [Vin] **L'Abri** : Blan "La Mer à Boire"
+- [Vin] **Pour du vin Nath** : toutes les bouteilles 75 cl 
+- [Vin] **Domaine Attilon** : Gamme Ailleurs - Pinot Noir et Chardonnay 75cl 
 - [Vin] **Domaine Roustan** : Rosé "Le Pitchounet", Blanc "Les Poules Rieuses", Rouge "Les Camarades", Blanc “Coquin de Sort”
+- [Jus] **Mas Daussan** : jus de pommes 75 cl 
 
 
 **AUTRES PRODUCTEURS ENGAGÉS DISPONIBLES LOCALEMENT (FABRIQUÉS AILLEURS EN FRANCE)** <br/>
