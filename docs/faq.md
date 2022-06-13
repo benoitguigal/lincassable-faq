@@ -3,6 +3,7 @@
 ## Quelles bouteilles sont actuellement disponibles pour le réemploi dans les Bouches-du-Rhône ?
 
 **PRODUCTEURS LOCAUX** <br/>
+
 - [Bière] **Brasserie	Zoumai** : toutes les bouteilles 75 cl  <br/>
 - [Bière] **Brasserie de la Plaine** : Blonde 75 cl, Houblonée à cru 75 cl
 - [Bière] **Brasserie	La Baroude** : toutes les bouteilles 75 cl 
@@ -10,19 +11,28 @@
 - [Bière] **Brasserie Bulles de Provence** : toutes les bouteilles 75 cl 
 - [Bière] **Brasserie Artisanale de Provence** : Blonde Bio 75 cl
 - [Bière]	**Brasserie d'à Côté**	: toutes les bouteilles 75 cl
+
 - [Vin] **L'Abri** : Blan "La Mer à Boire"
 - [Vin] **Pour du vin Nath** : toutes les bouteilles 75 cl 
 - [Vin] **Domaine Attilon** : Gamme Ailleurs - Pinot Noir et Chardonnay 75cl 
 - [Vin] **Domaine Roustan** : Rosé "Le Pitchounet", Blanc "Les Poules Rieuses", Rouge "Les Camarades", Blanc “Coquin de Sort”
+
 - [Jus] **Mas Daussan** : jus de pommes 75 cl 
+ 
 
 
 **AUTRES PRODUCTEURS ENGAGÉS DISPONIBLES LOCALEMENT (FABRIQUÉS AILLEURS EN FRANCE)** <br/>
 - [Jus]	**La Ferme de Margerie**	: Tous les jus de 1L (Sauf la gamme tremplin)
 - [Vin] **Oé** : Toute leur gamme (une quinzaine de références disponibles)
+- [Vin] **Domaine Bassac** : Empreinte rouge, Empreinte blanc et Empreinte rosé 75 cl 
+- [Vin] **Jacques Frelin** : Merlot et Chardonnay 75 cl 
 - [Kefir]	**L'atelier du ferment** : Kéfir de fruit	75 cl
 - [Jus de  pomme]	**Biocoop**	:	Pétillant de pomme 75 cl
-- [Limonade]	**Biocoop** :	Limonade 75 cl
+- [Soft] **Biocoop** :	Limonade 75 cl
+- [Soft] **Biocoop** : Kamboucha 75 cl 
+- [Soft] **Symples** : Infusions 75 cl 
+- [Bière] **Moulin d'Asq** : Biclou 75 cl 
+- [Bière] **Brasserie Bivouak** toutes les références 75 cl
 
 
 Pour certains producteurs, la totalité des références vont arriver progressivement, le temps qu'ils écoulent leur stock d'anciennes bouteilles et étiquettes, et mettent en place les adaptations nécessaires sur leurs étiquettes. 
